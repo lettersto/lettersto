@@ -4,11 +4,6 @@ Welcome to my page! <br/>
 I'm a **Backend developer** from Korea.
 <br/>
 <br/>
-<br/>
-👩‍💻 _Since January 2022 I'm learning programming in **Samsung SW Academy For Youth (SSAFY)**_ <br/>
-🎓 _I have a bachelor's degree on **German and German Literature at Ewha Womans University**._ <br/>
-<br/>
-<br/>
 I've always wanted to be a creator of new things🪄. In January I had an opportunity to learn programming and I've found out that programming is the way to make something!🎉 Now my focus is to learn how to improve user experience.
 <br/>
 <br/>
