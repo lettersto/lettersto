@@ -1,14 +1,12 @@
 ## Hi, I'm Hyeryeong Jeong! 🌿
 
 Welcome to my page! <br/>
-I'm a **Frontend developer** from Korea.
+I'm a **Backend developer** from Korea.
 <br/>
 <br/>
 <br/>
 👩‍💻 _Since January 2022 I'm learning programming in **Samsung SW Academy For Youth (SSAFY)**_ <br/>
 🎓 _I have a bachelor's degree on **German and German Literature at Ewha Womans University**._ <br/>
-🙆‍♀️ _I'm hoping to enter the market this year as a **Web Frontend Dev!**_ <br/>
-🐾 _If you want to see my portfolio, click here → [Portfolio (in Korean)](https://www.notion.so/lettersto/Hyeryeong-Jeong-0eb6195c9cd74295a1149e755e6338af)_
 <br/>
 <br/>
 I've always wanted to be a creator of new things🪄. In January I had an opportunity to learn programming and I've found out that programming is the way to make something!🎉 Now my focus is to learn how to improve user experience.
@@ -28,15 +26,6 @@ I've always wanted to be a creator of new things🪄. In January I had an opport
 ![Django](https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=flat-square)
-
-<br/>
-
-### 🌱 Projects <br/>
-| Date                    | Projects                                                     | Skills                                    |
-| ----------------------- | ------------------------------------------------------------ | ----------------------------------------- |
-| 2022/10/10 - 2022/11/18 | [Lyra - App for buskers](https://github.com/lettersto/Lyra)  | `TypeScript` `React Native` `React Query` |
-| 2022/08/22 - 2022/10/07 | [contribution to Samsung Open Source ONE-Vscode](https://github.com/Samsung/ONE-vscode/blob/main/src/Tests/Backend/One/OneToolchain.test.ts) | `TypeScript` `Mocha` `Chai`              |
-| 2022/07/05 - 2022/08/19 | [Co:kkiri - video conferencing platform for developers](https://github.com/lettersto/Co-kkiri) | `JavaScript` `React` `Redux` `HTML` `CSS` | 
 
 
 <br/>
