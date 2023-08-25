@@ -4,7 +4,7 @@ Welcome to my page! <br/>
 I'm a **Backend developer** from Korea.
 <br/>
 <br/>
-I've always wanted to be a creator of new things🪄. In January I had an opportunity to learn programming and I've found out that programming is the way to make something!🎉 Now my focus is to learn how to improve user experience.
+I've always wanted to be a creator of new things🪄. In January I had an opportunity to learn programming and I've found out that programming is the way to make something!🎉 
 <br/>
 <br/>
 ### 🌱 Languages & Fameworks 
